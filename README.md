@@ -1,5 +1,5 @@
-# actualizar-servidores-mediante-WSUS.ps1
-Script basado en powershell para actualizar servidores usando WSUS. 
+# Actualizar servidores mediante WSUS
+Script basado en powershell, para actualizar servidores a través de WSUS. 
 - Credenciales en texto plano
 - Verificación de conectividad
 - Instalación de actualizaciones aprobadas por WSUS
